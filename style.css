@@ -3,7 +3,7 @@
 html {
       background-color: #1ffffff;
       align-items: center;
-      color: #ebdbb2;
+      color: #404040;
       display: flex;
       font-family: 'Ubuntu Mono', monospace;
       font-size: 25px;
@@ -23,7 +23,7 @@ html {
       grid-column: 1 / -1;
       margin: 0;
       text-align: center;
-      color: #ff7a93;
+      color: #404040;
     }
 
     a {
