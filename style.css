@@ -54,11 +54,10 @@ html {
     li:first-child {
       font-weight: bold;
       line-height: 2em;
-      color: #404040;
+      color: #79828b;
     }
 
     img {
-      border: 2px solid #404040;
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
