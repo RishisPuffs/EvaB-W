@@ -1,6 +1,6 @@
 @font-face {
-    font-family: SFMono;
-    src: url("../EvaB-W/SFMono-Light.ttf") format('truetype');
+    font-family: SF;
+    src: url("../EvaB-W/SFProDisplay-Light.ttf ") format('truetype');
     font-weight: light;
     font-style: normal;
 }
@@ -10,7 +10,7 @@ html {
       align-items: center;
       color: #404040;
       display: flex;
-      font-family: 'SFMono', monospace;
+      font-family: 'SF', sans-serif;
       font-size: 20px;
       height: 100%;
       justify-content: center;
@@ -71,7 +71,7 @@ html {
 
 input {
   background-color: unset;
-  font: 16px 'SFMono', monospace;
+  font: 16px 'SF', sans-serif;
   color: #404040;
   height: 100%;
   width: 100%;
